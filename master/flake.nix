@@ -11,6 +11,7 @@
   inputs.src-nim_chacha20_poly1305-master.ref   = "refs/heads/master";
   inputs.src-nim_chacha20_poly1305-master.owner = "lantos-lgtm";
   inputs.src-nim_chacha20_poly1305-master.repo  = "nim_chacha20_poly1305";
+  inputs.src-nim_chacha20_poly1305-master.dir   = "";
   inputs.src-nim_chacha20_poly1305-master.type  = "github";
   
   inputs."stint".owner = "nim-nix-pkgs";
