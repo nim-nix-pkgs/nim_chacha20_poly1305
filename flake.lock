@@ -34,11 +34,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656747795,
-        "narHash": "sha256-3WwKuN9Rz9kxJ1MjWK6lLRt5i4kE/3zDy2TvC2F/u/w=",
+        "lastModified": 1657154000,
+        "narHash": "sha256-IK+mpOFzV9BVTh4894aDzaw5BwxXOvF9zIk4tG43NSY=",
         "owner": "nim-nix-pkgs",
         "repo": "nim_chacha20_poly1305",
-        "rev": "164b486702bc6ffc6c9b0fae031f250ccda4e926",
+        "rev": "9494c428b119abd253bd215ab44bfdfaee5c9dba",
         "type": "github"
       },
       "original": {
